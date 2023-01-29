@@ -14,6 +14,5 @@
       <class name="MallulaAcadamytests.StandAloneTest"/>     
     </classes>
   </test>
-  
    <!-- Test -->
 </suite> <!-- firstSuite -->
